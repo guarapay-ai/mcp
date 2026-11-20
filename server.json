@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.guarapay/card",
+  "title": "GuaraPay",
+  "description": "Virtual Visa/Mastercard cards topped up with USDT: issue cards, top up, pay within holder's limits.",
+  "version": "1.2.1",
+  "websiteUrl": "https://guarapay.io/en/ai-agents/?utm_source=github&utm_medium=mcp&utm_campaign=readme",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.guarapay.io" }
+  ]
+}

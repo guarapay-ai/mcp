@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Lobo-guara">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F58A3C"/><stop offset="1" stop-color="#D9480F"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C2D12"/><stop offset=".35" stop-color="#C2410C"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <radialGradient id="iris" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E8A317"/>
+    </radialGradient>
+  </defs>
+  <!-- mane: soft dark tufts behind the neck -->
+  <path d="M44 132 Q40 112 52 104 Q56 96 64 100 Q70 90 80 96 Q90 90 96 100 Q104 96 108 104 Q120 112 116 132 Z" fill="#17110D"/>
+  <!-- ears -->
+  <path d="M50 74 L26 14 Q27 4 37 8 L74 50 Z" fill="url(#ear)"/>
+  <path d="M110 74 L134 14 Q133 4 123 8 L86 50 Z" fill="url(#ear)"/>
+  <path d="M52 64 L34 20 Q36 16 40 18 L68 50 Z" fill="#FFF3E2"/>
+  <path d="M108 64 L126 20 Q124 16 120 18 L92 50 Z" fill="#FFF3E2"/>
+  <path d="M44 44 l6 -2 -2 6 6 -1 -3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 44 l-6 -2 2 6 -6 -1 3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <!-- head with cheek fluff -->
+  <path d="M34 78 Q38 44 80 40 Q122 44 126 78 L132 86 L122 90 L126 98 L112 100 Q100 106 92 120 L68 120 Q60 106 48 100 L34 98 L38 90 L28 86 Z" fill="url(#fur)"/>
+  <!-- neck -->
+  <path d="M58 112 Q80 122 102 112 L106 140 L54 140 Z" fill="#D9480F"/>
+  <path d="M66 118 Q80 128 94 118 L92 140 L68 140 Z" fill="#FFF3E2"/>
+  <!-- cream cheeks and throat -->
+  <path d="M46 96 Q58 100 64 116 Q52 112 46 96 Z" fill="#FFF3E2"/>
+  <path d="M114 96 Q102 100 96 116 Q108 112 114 96 Z" fill="#FFF3E2"/>
+  <!-- long dark muzzle -->
+  <path d="M71 86 Q80 80 89 86 Q89 104 85 116 Q80 122 75 116 Q71 104 71 86 Z" fill="#221812"/>
+  <path d="M80 80 Q83 88 80 98 Q77 88 80 80 Z" fill="#3A2A20"/>
+  <!-- nose + smile -->
+  <ellipse cx="80" cy="115" rx="7" ry="5" fill="#050302"/>
+  <ellipse cx="77.5" cy="113.2" rx="2.3" ry="1.2" fill="#fff" opacity=".7"/>
+  <path d="M73 123 Q80 128 87 123" fill="none" stroke="#050302" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M50 80 Q60 68 70 80 Q60 86 50 80 Z" fill="#fff"/>
+  <path d="M110 80 Q100 68 90 80 Q100 86 110 80 Z" fill="#fff"/>
+  <circle cx="61" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="99" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="61.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="99.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="63" cy="77" r="1.3" fill="#fff"/>
+  <circle cx="101" cy="77" r="1.3" fill="#fff"/>
+  <path d="M50 70 Q60 64 70 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M110 70 Q100 64 90 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- fan scarf -->
+  <path d="M46 128 Q80 142 114 128 L118 144 Q80 160 42 144 Z" fill="#2BE38A"/>
+  <path d="M58 133 L56 149 M72 136 L71 152 M88 136 L89 152 M102 133 L104 149" stroke="#FFD43B" stroke-width="5"/>
+  <path d="M98 146 L106 160 L92 160 Z" fill="#1FC877"/><path d="M108 144 L120 158 L106 160 Z" fill="#2BE38A"/>
+</svg>

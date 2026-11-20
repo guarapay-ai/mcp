@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="GuaraPay AI Payment Agent">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0B12"/><stop offset="1" stop-color="#1A1026"/></linearGradient>
+<radialGradient id="glow" cx=".8" cy=".5" r=".5"><stop offset="0" stop-color="#7C3AED" stop-opacity=".35"/><stop offset=".5" stop-color="#0E7490" stop-opacity=".12"/><stop offset="1" stop-color="#0E7490" stop-opacity="0"/></radialGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F58A3C"/><stop offset=".55" stop-color="#D9480F"/><stop offset="1" stop-color="#7C2D12"/></linearGradient>
+<linearGradient id="card2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A2438"/><stop offset="1" stop-color="#15121F"/></linearGradient>
+<radialGradient id="std" cx="0" cy="0" r="1.2" gradientTransform="scale(1 .75)"><stop offset="0" stop-color="#3DF29A"/><stop offset=".3" stop-color="#14B86C"/><stop offset=".62" stop-color="#0A6B43"/><stop offset="1" stop-color="#06301F"/></radialGradient>
+<radialGradient id="rings" cx="1.1" cy="1.2" r="1.3" spreadMethod="repeat" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".93" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/></radialGradient>
+<linearGradient id="ag" x1="0" y1="0" x2="1" y2=".7"><stop offset="0" stop-color="#04533F"/><stop offset=".38" stop-color="#0B4F6C"/><stop offset=".72" stop-color="#3B1D8F"/><stop offset="1" stop-color="#1E0B4A"/></linearGradient>
+<radialGradient id="ag1" cx=".12" cy=".08" r=".7"><stop offset="0" stop-color="#34D399" stop-opacity=".38"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+<radialGradient id="ag2" cx=".92" cy=".18" r=".65"><stop offset="0" stop-color="#22D3EE" stop-opacity=".3"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="ag3" cx=".7" cy="1.05" r=".8"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<linearGradient id="ring" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#34D399"/><stop offset=".35" stop-color="#22D3EE"/><stop offset=".7" stop-color="#A78BFA"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
+<linearGradient id="pill" x1="0" x2="1"><stop offset="0" stop-color="#047857" stop-opacity=".85"/><stop offset=".5" stop-color="#0E7490" stop-opacity=".85"/><stop offset="1" stop-color="#6D28D9" stop-opacity=".88"/></linearGradient>
+<pattern id="neural" width="160" height="100" patternUnits="userSpaceOnUse"><g fill="none" stroke="#fff" stroke-width=".8" stroke-linecap="round"><path d="M0 22h28l12 12h34l10-10h22l12 12h42"/><path d="M0 64h18l14-14h26l16 16h30l12-12h44"/><path d="M58 34v16M106 24V6M74 66v24M118 54v-18M40 34v-18"/></g><g fill="#fff"><circle cx="40" cy="34" r="2"/><circle cx="74" cy="34" r="2"/><circle cx="106" cy="24" r="2"/><circle cx="58" cy="50" r="2"/><circle cx="74" cy="66" r="2"/><circle cx="118" cy="54" r="2"/></g></pattern>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#000" flood-opacity=".6"/></filter>
+<filter id="sh2" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#7C3AED" flood-opacity=".55"/><feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#A78BFA" flood-opacity=".45"/></filter>
+<clipPath id="agclip"><rect width="350" height="221" rx="24"/></clipPath>
+</defs>
+<rect width="1280" height="420" fill="url(#bg)"/>
+<rect width="1280" height="420" fill="url(#glow)"/>
+<g opacity=".07" stroke="#fff"><line x1="0" y1="0" x2="0" y2="420"/><line x1="40" y1="0" x2="40" y2="420"/><line x1="80" y1="0" x2="80" y2="420"/><line x1="120" y1="0" x2="120" y2="420"/><line x1="160" y1="0" x2="160" y2="420"/><line x1="200" y1="0" x2="200" y2="420"/><line x1="240" y1="0" x2="240" y2="420"/><line x1="280" y1="0" x2="280" y2="420"/><line x1="320" y1="0" x2="320" y2="420"/><line x1="360" y1="0" x2="360" y2="420"/><line x1="400" y1="0" x2="400" y2="420"/><line x1="440" y1="0" x2="440" y2="420"/><line x1="480" y1="0" x2="480" y2="420"/><line x1="520" y1="0" x2="520" y2="420"/><line x1="560" y1="0" x2="560" y2="420"/><line x1="600" y1="0" x2="600" y2="420"/><line x1="640" y1="0" x2="640" y2="420"/><line x1="680" y1="0" x2="680" y2="420"/><line x1="720" y1="0" x2="720" y2="420"/><line x1="760" y1="0" x2="760" y2="420"/><line x1="800" y1="0" x2="800" y2="420"/><line x1="840" y1="0" x2="840" y2="420"/><line x1="880" y1="0" x2="880" y2="420"/><line x1="920" y1="0" x2="920" y2="420"/><line x1="960" y1="0" x2="960" y2="420"/><line x1="1000" y1="0" x2="1000" y2="420"/><line x1="1040" y1="0" x2="1040" y2="420"/><line x1="1080" y1="0" x2="1080" y2="420"/><line x1="1120" y1="0" x2="1120" y2="420"/><line x1="1160" y1="0" x2="1160" y2="420"/><line x1="1200" y1="0" x2="1200" y2="420"/><line x1="1240" y1="0" x2="1240" y2="420"/><line x1="1280" y1="0" x2="1280" y2="420"/><line x1="0" y1="0" x2="1280" y2="0"/><line x1="0" y1="40" x2="1280" y2="40"/><line x1="0" y1="80" x2="1280" y2="80"/><line x1="0" y1="120" x2="1280" y2="120"/><line x1="0" y1="160" x2="1280" y2="160"/><line x1="0" y1="200" x2="1280" y2="200"/><line x1="0" y1="240" x2="1280" y2="240"/><line x1="0" y1="280" x2="1280" y2="280"/><line x1="0" y1="320" x2="1280" y2="320"/><line x1="0" y1="360" x2="1280" y2="360"/><line x1="0" y1="400" x2="1280" y2="400"/></g>
+<svg x="72" y="64" width="64" height="64" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F58A3C"/><stop offset="1" stop-color="#D9480F"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C2D12"/><stop offset=".35" stop-color="#C2410C"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <radialGradient id="iris" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E8A317"/>
+    </radialGradient>
+  </defs>
+  <!-- mane: soft dark tufts behind the neck -->
+  <path d="M44 132 Q40 112 52 104 Q56 96 64 100 Q70 90 80 96 Q90 90 96 100 Q104 96 108 104 Q120 112 116 132 Z" fill="#17110D"/>
+  <!-- ears -->
+  <path d="M50 74 L26 14 Q27 4 37 8 L74 50 Z" fill="url(#ear)"/>
+  <path d="M110 74 L134 14 Q133 4 123 8 L86 50 Z" fill="url(#ear)"/>
+  <path d="M52 64 L34 20 Q36 16 40 18 L68 50 Z" fill="#FFF3E2"/>
+  <path d="M108 64 L126 20 Q124 16 120 18 L92 50 Z" fill="#FFF3E2"/>
+  <path d="M44 44 l6 -2 -2 6 6 -1 -3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 44 l-6 -2 2 6 -6 -1 3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <!-- head with cheek fluff -->
+  <path d="M34 78 Q38 44 80 40 Q122 44 126 78 L132 86 L122 90 L126 98 L112 100 Q100 106 92 120 L68 120 Q60 106 48 100 L34 98 L38 90 L28 86 Z" fill="url(#fur)"/>
+  <!-- neck -->
+  <path d="M58 112 Q80 122 102 112 L106 140 L54 140 Z" fill="#D9480F"/>
+  <path d="M66 118 Q80 128 94 118 L92 140 L68 140 Z" fill="#FFF3E2"/>
+  <!-- cream cheeks and throat -->
+  <path d="M46 96 Q58 100 64 116 Q52 112 46 96 Z" fill="#FFF3E2"/>
+  <path d="M114 96 Q102 100 96 116 Q108 112 114 96 Z" fill="#FFF3E2"/>
+  <!-- long dark muzzle -->
+  <path d="M71 86 Q80 80 89 86 Q89 104 85 116 Q80 122 75 116 Q71 104 71 86 Z" fill="#221812"/>
+  <path d="M80 80 Q83 88 80 98 Q77 88 80 80 Z" fill="#3A2A20"/>
+  <!-- nose + smile -->
+  <ellipse cx="80" cy="115" rx="7" ry="5" fill="#050302"/>
+  <ellipse cx="77.5" cy="113.2" rx="2.3" ry="1.2" fill="#fff" opacity=".7"/>
+  <path d="M73 123 Q80 128 87 123" fill="none" stroke="#050302" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M50 80 Q60 68 70 80 Q60 86 50 80 Z" fill="#fff"/>
+  <path d="M110 80 Q100 68 90 80 Q100 86 110 80 Z" fill="#fff"/>
+  <circle cx="61" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="99" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="61.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="99.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="63" cy="77" r="1.3" fill="#fff"/>
+  <circle cx="101" cy="77" r="1.3" fill="#fff"/>
+  <path d="M50 70 Q60 64 70 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M110 70 Q100 64 90 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- fan scarf -->
+  <path d="M46 128 Q80 142 114 128 L118 144 Q80 160 42 144 Z" fill="#2BE38A"/>
+  <path d="M58 133 L56 149 M72 136 L71 152 M88 136 L89 152 M102 133 L104 149" stroke="#FFD43B" stroke-width="5"/>
+  <path d="M98 146 L106 160 L92 160 Z" fill="#1FC877"/><path d="M108 144 L120 158 L106 160 Z" fill="#2BE38A"/>
+</svg>
+<text x="152" y="108" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">GuaraPay</text>
+<text x="72" y="196" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="#fff">Give your AI agent</text>
+<text x="72" y="256" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="#F58A3C">a real card.</text>
+<text x="72" y="304" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#B8B2C8">Your limits. Frozen by default. No card number in the chat.</text>
+<g transform="translate(72 334)"><rect width="300" height="44" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+<circle cx="24" cy="22" r="6" fill="#3DDC84"/><text x="42" y="29" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="19" fill="#fff">mcp.guarapay.io</text></g>
+<!-- the cards as on guarapay.io (.vcard / .vcard.agent in hero.css): the standard card behind, the AI agent card in front -->
+<g transform="translate(818 96) rotate(-6)" filter="url(#sh)">
+<rect width="330" height="208" rx="22" fill="url(#std)"/>
+<rect width="330" height="208" rx="22" fill="url(#rings)" opacity=".22"/>
+<rect x=".5" y=".5" width="329" height="207" rx="21.5" fill="none" stroke="#fff" stroke-opacity=".14"/>
+<g transform="translate(24 22)"><rect width="30" height="30" rx="9" fill="#fff" fill-opacity=".18"/><svg x="2" y="5" width="26" height="26" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F58A3C"/><stop offset="1" stop-color="#D9480F"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C2D12"/><stop offset=".35" stop-color="#C2410C"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <radialGradient id="iris" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E8A317"/>
+    </radialGradient>
+  </defs>
+  <!-- mane: soft dark tufts behind the neck -->
+  <path d="M44 132 Q40 112 52 104 Q56 96 64 100 Q70 90 80 96 Q90 90 96 100 Q104 96 108 104 Q120 112 116 132 Z" fill="#17110D"/>
+  <!-- ears -->
+  <path d="M50 74 L26 14 Q27 4 37 8 L74 50 Z" fill="url(#ear)"/>
+  <path d="M110 74 L134 14 Q133 4 123 8 L86 50 Z" fill="url(#ear)"/>
+  <path d="M52 64 L34 20 Q36 16 40 18 L68 50 Z" fill="#FFF3E2"/>
+  <path d="M108 64 L126 20 Q124 16 120 18 L92 50 Z" fill="#FFF3E2"/>
+  <path d="M44 44 l6 -2 -2 6 6 -1 -3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 44 l-6 -2 2 6 -6 -1 3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <!-- head with cheek fluff -->
+  <path d="M34 78 Q38 44 80 40 Q122 44 126 78 L132 86 L122 90 L126 98 L112 100 Q100 106 92 120 L68 120 Q60 106 48 100 L34 98 L38 90 L28 86 Z" fill="url(#fur)"/>
+  <!-- neck -->
+  <path d="M58 112 Q80 122 102 112 L106 140 L54 140 Z" fill="#D9480F"/>
+  <path d="M66 118 Q80 128 94 118 L92 140 L68 140 Z" fill="#FFF3E2"/>
+  <!-- cream cheeks and throat -->
+  <path d="M46 96 Q58 100 64 116 Q52 112 46 96 Z" fill="#FFF3E2"/>
+  <path d="M114 96 Q102 100 96 116 Q108 112 114 96 Z" fill="#FFF3E2"/>
+  <!-- long dark muzzle -->
+  <path d="M71 86 Q80 80 89 86 Q89 104 85 116 Q80 122 75 116 Q71 104 71 86 Z" fill="#221812"/>
+  <path d="M80 80 Q83 88 80 98 Q77 88 80 80 Z" fill="#3A2A20"/>
+  <!-- nose + smile -->
+  <ellipse cx="80" cy="115" rx="7" ry="5" fill="#050302"/>
+  <ellipse cx="77.5" cy="113.2" rx="2.3" ry="1.2" fill="#fff" opacity=".7"/>
+  <path d="M73 123 Q80 128 87 123" fill="none" stroke="#050302" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M50 80 Q60 68 70 80 Q60 86 50 80 Z" fill="#fff"/>
+  <path d="M110 80 Q100 68 90 80 Q100 86 110 80 Z" fill="#fff"/>
+  <circle cx="61" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="99" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="61.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="99.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="63" cy="77" r="1.3" fill="#fff"/>
+  <circle cx="101" cy="77" r="1.3" fill="#fff"/>
+  <path d="M50 70 Q60 64 70 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M110 70 Q100 64 90 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- fan scarf -->
+  <path d="M46 128 Q80 142 114 128 L118 144 Q80 160 42 144 Z" fill="#2BE38A"/>
+  <path d="M58 133 L56 149 M72 136 L71 152 M88 136 L89 152 M102 133 L104 149" stroke="#FFD43B" stroke-width="5"/>
+  <path d="M98 146 L106 160 L92 160 Z" fill="#1FC877"/><path d="M108 144 L120 158 L106 160 Z" fill="#2BE38A"/>
+</svg>
+<text x="40" y="22" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="850" fill="#fff" letter-spacing="-.5">GuaraPay</text></g>
+</g>
+<g transform="translate(866 150) rotate(3)" filter="url(#sh2)">
+<rect width="350" height="221" rx="24" fill="url(#ag)"/>
+<rect width="350" height="221" rx="24" fill="url(#ag1)"/><rect width="350" height="221" rx="24" fill="url(#ag2)"/><rect width="350" height="221" rx="24" fill="url(#ag3)"/>
+<rect width="350" height="221" rx="24" fill="url(#neural)" opacity=".2"/>
+<g clip-path="url(#agclip)"><svg x="262" y="34" width="132" height="132" viewBox="0 0 160 160" opacity=".92"><g transform="rotate(-10 80 80)">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F58A3C"/><stop offset="1" stop-color="#D9480F"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C2D12"/><stop offset=".35" stop-color="#C2410C"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <radialGradient id="iris" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E8A317"/>
+    </radialGradient>
+  </defs>
+  <!-- mane: soft dark tufts behind the neck -->
+  <path d="M44 132 Q40 112 52 104 Q56 96 64 100 Q70 90 80 96 Q90 90 96 100 Q104 96 108 104 Q120 112 116 132 Z" fill="#17110D"/>
+  <!-- ears -->
+  <path d="M50 74 L26 14 Q27 4 37 8 L74 50 Z" fill="url(#ear)"/>
+  <path d="M110 74 L134 14 Q133 4 123 8 L86 50 Z" fill="url(#ear)"/>
+  <path d="M52 64 L34 20 Q36 16 40 18 L68 50 Z" fill="#FFF3E2"/>
+  <path d="M108 64 L126 20 Q124 16 120 18 L92 50 Z" fill="#FFF3E2"/>
+  <path d="M44 44 l6 -2 -2 6 6 -1 -3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 44 l-6 -2 2 6 -6 -1 3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <!-- head with cheek fluff -->
+  <path d="M34 78 Q38 44 80 40 Q122 44 126 78 L132 86 L122 90 L126 98 L112 100 Q100 106 92 120 L68 120 Q60 106 48 100 L34 98 L38 90 L28 86 Z" fill="url(#fur)"/>
+  <!-- neck -->
+  <path d="M58 112 Q80 122 102 112 L106 140 L54 140 Z" fill="#D9480F"/>
+  <path d="M66 118 Q80 128 94 118 L92 140 L68 140 Z" fill="#FFF3E2"/>
+  <!-- cream cheeks and throat -->
+  <path d="M46 96 Q58 100 64 116 Q52 112 46 96 Z" fill="#FFF3E2"/>
+  <path d="M114 96 Q102 100 96 116 Q108 112 114 96 Z" fill="#FFF3E2"/>
+  <!-- long dark muzzle -->
+  <path d="M71 86 Q80 80 89 86 Q89 104 85 116 Q80 122 75 116 Q71 104 71 86 Z" fill="#221812"/>
+  <path d="M80 80 Q83 88 80 98 Q77 88 80 80 Z" fill="#3A2A20"/>
+  <!-- nose + smile -->
+  <ellipse cx="80" cy="115" rx="7" ry="5" fill="#050302"/>
+  <ellipse cx="77.5" cy="113.2" rx="2.3" ry="1.2" fill="#fff" opacity=".7"/>
+  <path d="M73 123 Q80 128 87 123" fill="none" stroke="#050302" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M50 80 Q60 68 70 80 Q60 86 50 80 Z" fill="#fff"/>
+  <path d="M110 80 Q100 68 90 80 Q100 86 110 80 Z" fill="#fff"/>
+  <circle cx="61" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="99" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="61.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="99.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="63" cy="77" r="1.3" fill="#fff"/>
+  <circle cx="101" cy="77" r="1.3" fill="#fff"/>
+  <path d="M50 70 Q60 64 70 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M110 70 Q100 64 90 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- fan scarf -->
+  <path d="M46 128 Q80 142 114 128 L118 144 Q80 160 42 144 Z" fill="#2BE38A"/>
+  <path d="M58 133 L56 149 M72 136 L71 152 M88 136 L89 152 M102 133 L104 149" stroke="#FFD43B" stroke-width="5"/>
+  <path d="M98 146 L106 160 L92 160 Z" fill="#1FC877"/><path d="M108 144 L120 158 L106 160 Z" fill="#2BE38A"/>
+</g></svg></g>
+<g transform="translate(24 22)"><rect width="32" height="32" rx="10" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".25"/><svg x="2" y="5" width="28" height="28" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F58A3C"/><stop offset="1" stop-color="#D9480F"/>
+    </linearGradient>
+    <linearGradient id="ear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C2D12"/><stop offset=".35" stop-color="#C2410C"/><stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <radialGradient id="iris" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E8A317"/>
+    </radialGradient>
+  </defs>
+  <!-- mane: soft dark tufts behind the neck -->
+  <path d="M44 132 Q40 112 52 104 Q56 96 64 100 Q70 90 80 96 Q90 90 96 100 Q104 96 108 104 Q120 112 116 132 Z" fill="#17110D"/>
+  <!-- ears -->
+  <path d="M50 74 L26 14 Q27 4 37 8 L74 50 Z" fill="url(#ear)"/>
+  <path d="M110 74 L134 14 Q133 4 123 8 L86 50 Z" fill="url(#ear)"/>
+  <path d="M52 64 L34 20 Q36 16 40 18 L68 50 Z" fill="#FFF3E2"/>
+  <path d="M108 64 L126 20 Q124 16 120 18 L92 50 Z" fill="#FFF3E2"/>
+  <path d="M44 44 l6 -2 -2 6 6 -1 -3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 44 l-6 -2 2 6 -6 -1 3 6" fill="none" stroke="#F3D9BC" stroke-width="2" stroke-linecap="round"/>
+  <!-- head with cheek fluff -->
+  <path d="M34 78 Q38 44 80 40 Q122 44 126 78 L132 86 L122 90 L126 98 L112 100 Q100 106 92 120 L68 120 Q60 106 48 100 L34 98 L38 90 L28 86 Z" fill="url(#fur)"/>
+  <!-- neck -->
+  <path d="M58 112 Q80 122 102 112 L106 140 L54 140 Z" fill="#D9480F"/>
+  <path d="M66 118 Q80 128 94 118 L92 140 L68 140 Z" fill="#FFF3E2"/>
+  <!-- cream cheeks and throat -->
+  <path d="M46 96 Q58 100 64 116 Q52 112 46 96 Z" fill="#FFF3E2"/>
+  <path d="M114 96 Q102 100 96 116 Q108 112 114 96 Z" fill="#FFF3E2"/>
+  <!-- long dark muzzle -->
+  <path d="M71 86 Q80 80 89 86 Q89 104 85 116 Q80 122 75 116 Q71 104 71 86 Z" fill="#221812"/>
+  <path d="M80 80 Q83 88 80 98 Q77 88 80 80 Z" fill="#3A2A20"/>
+  <!-- nose + smile -->
+  <ellipse cx="80" cy="115" rx="7" ry="5" fill="#050302"/>
+  <ellipse cx="77.5" cy="113.2" rx="2.3" ry="1.2" fill="#fff" opacity=".7"/>
+  <path d="M73 123 Q80 128 87 123" fill="none" stroke="#050302" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M50 80 Q60 68 70 80 Q60 86 50 80 Z" fill="#fff"/>
+  <path d="M110 80 Q100 68 90 80 Q100 86 110 80 Z" fill="#fff"/>
+  <circle cx="61" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="99" cy="78.5" r="5.2" fill="url(#iris)"/>
+  <circle cx="61.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="99.5" cy="79" r="2.6" fill="#120B07"/>
+  <circle cx="63" cy="77" r="1.3" fill="#fff"/>
+  <circle cx="101" cy="77" r="1.3" fill="#fff"/>
+  <path d="M50 70 Q60 64 70 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M110 70 Q100 64 90 70" fill="none" stroke="#7C2D12" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- fan scarf -->
+  <path d="M46 128 Q80 142 114 128 L118 144 Q80 160 42 144 Z" fill="#2BE38A"/>
+  <path d="M58 133 L56 149 M72 136 L71 152 M88 136 L89 152 M102 133 L104 149" stroke="#FFD43B" stroke-width="5"/>
+  <path d="M98 146 L106 160 L92 160 Z" fill="#1FC877"/><path d="M108 144 L120 158 L106 160 Z" fill="#2BE38A"/>
+</svg>
+<text x="42" y="23" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="850" fill="#fff" letter-spacing="-.5">GuaraPay</text></g>
+<g transform="translate(196 25)"><rect width="114" height="26" rx="13" fill="url(#pill)" stroke="#fff" stroke-opacity=".4"/>
+<path transform="translate(10 6) scale(.6)" d="M12 0l2.6 9.4L24 12l-9.4 2.6L12 24l-2.6-9.4L0 12l9.4-2.6z" fill="#fff"/>
+<text x="31" y="17.5" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="800" fill="#fff" letter-spacing="1.6">AI AGENT</text></g>
+<text x="24" y="132" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="38" font-weight="900" fill="#fff" letter-spacing="-.8">$ 50.00</text>
+<text x="24" y="196" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#fff" letter-spacing="1.4">•••• 4417</text>
+<g transform="translate(286 176)"><circle cx="11" cy="10" r="10" fill="#EB001B"/><circle cx="25" cy="10" r="10" fill="#F79E1B"/><path d="M18 2.8a10 10 0 0 1 0 14.4 10 10 0 0 1 0-14.4z" fill="#FF5F00"/></g>
+<rect x="1" y="1" width="348" height="219" rx="23" fill="none" stroke="url(#ring)" stroke-width="2"/>
+</g>
+</svg>
