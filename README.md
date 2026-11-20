@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/tools-16-blue?style=flat-square" alt="16 tools">
 </p>
 
+<p align="center">
+  <a href="https://glama.ai/mcp/connectors/io.guarapay/card"><img src="https://glama.ai/mcp/connectors/io.guarapay/card/badges/score.svg" alt="GuaraPay MCP connector – tool definition quality and endpoint health on Glama"></a>
+</p>
+
 <h3 align="center">The AI Payment Agent for Claude, ChatGPT, Cursor and any MCP client</h3>
 
 <p align="center">
